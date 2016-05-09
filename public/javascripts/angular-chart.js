@@ -1,6 +1,6 @@
 var app = angular.module('simple-chart', []);
 
-app.controller('dataController', function($scope, $http) {
+app.controller('MainController', function($scope, $http) {
   $http.get("https://assignment-1-2016-maggiechow.c9users.io/Sample").then(function (response) {
     
       google.charts.load('current', {packages: ['corechart', 'bar']});
@@ -9,6 +9,16 @@ app.controller('dataController', function($scope, $http) {
       });
   });
 });
+
+var app = angular.module('simple-chart', []);
+
+google.load("visualization", "1", {packages:["corechart"]});
+
+app.controller('MainController', ['$scope', '$http',  function($scope, $http) {
+  $http.get('/sample').success(function(data){
+    formatDataTable(data);
+  });
+}]);
 
 function formatDataTable(chartdata) {
   var data = [];
