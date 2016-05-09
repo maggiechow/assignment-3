@@ -1,0 +1,102 @@
+[
+  {
+    "event": "Violence and other injuries by persons or animal",
+    "amount": 7960,
+    "state": "California"
+  },
+  {
+    "event": "Intentional injury by other person",
+    "amount": 2130,
+    "state": "California"
+  },
+  {
+    "event": "Injury by person unintentional or intent unknown",
+    "amount": 3590,
+    "state": "California"
+  },
+  {
+    "event": "Animal and insect related incidents",
+    "amount": 1980,
+    "state": "California"
+  },
+  {
+    "event": "Transportation incidents",
+    "amount": 5360,
+    "state": "California"
+  },
+  {
+    "event": "Roadway incidents involving motorized land vehicles",
+    "amount": 3700,
+    "state": "California"
+  },
+  {
+    "event": "Fires, explosions",
+    "amount": 40,
+    "state": "California"
+  },
+  {
+    "event": "Falls, slips, trips",
+    "amount": 30190,
+    "state": "California"
+  },
+  {
+    "event": "Slips, trips without fall",
+    "amount": 5070,
+    "state": "California"
+  },
+  {
+    "event": "Fall on same level",
+    "amount": 21140,
+    "state": "California"
+  },
+  {
+    "event": "Fall to lower level",
+    "amount": 3350,
+    "state": "California"
+  },
+  {
+    "event": "Exposure to harmful substances or environments",
+    "amount": 7850,
+    "state": "California"
+  },
+  {
+    "event": "Contact with object, equipment",
+    "amount": 31630,
+    "state": "California"
+  },
+  {
+    "event": "Struck by object",
+    "amount": 17870,
+    "state": "California"
+  },
+  {
+    "event": "Struck against object",
+    "amount": 8360,
+    "state": "California"
+  },
+  {
+    "event": "Caught in object, equipment, material",
+    "amount": 3880,
+    "state": "California"
+  },
+  {
+    "event": "Overexertion and bodily reaction",
+    "amount": 56650,
+    "state": "California"
+  },
+  {
+    "event": "Overexertion in lifting or lowering",
+    "amount": 15630,
+    "state": "California"
+  },
+  {
+    "event": "Repetitive motion involving microtasks",
+    "amount": 8510,
+    "state": "California"
+  },
+  {
+    "event": "All other",
+    "amount": 3090,
+    "state": "California"
+  }
+]

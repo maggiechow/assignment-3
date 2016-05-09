@@ -1,0 +1,82 @@
+[
+  {
+    "amount": "7,960",
+    "event": "Violence and other injuries by persons or animal"
+  },
+  {
+    "amount": "2,130",
+    "event": "Intentional injury by other person"
+  },
+  {
+    "amount": "3,590",
+    "event": "Injury by person unintentional or intent unknown"
+  },
+  {
+    "amount": "1,980",
+    "event": "Animal and insect related incidents"
+  },
+  {
+    "amount": "5,360",
+    "event": "Transportation incidents"
+  },
+  {
+    "amount": "3,700",
+    "event": "Roadway incidents involving motorized land vehicles"
+  },
+  {
+    "amount": 40,
+    "event": "Fires, explosions"
+  },
+  {
+    "amount": "30,190",
+    "event": "Falls, slips, trips"
+  },
+  {
+    "amount": "5,070",
+    "event": "Slips, trips without fall"
+  },
+  {
+    "amount": "21,140",
+    "event": "Fall on same level"
+  },
+  {
+    "amount": "3,350",
+    "event": "Fall to lower level"
+  },
+  {
+    "amount": "7,850",
+    "event": "Exposure to harmful substances or environments"
+  },
+  {
+    "amount": "31,630",
+    "event": "Contact with object, equipment"
+  },
+  {
+    "amount": "17,870",
+    "event": "Struck by object"
+  },
+  {
+    "amount": "8,360",
+    "event": "Struck against object"
+  },
+  {
+    "amount": "3,880",
+    "event": "Caught in object, equipment, material"
+  },
+  {
+    "amount": "56,650",
+    "event": "Overexertion and bodily reaction"
+  },
+  {
+    "amount": "15,630",
+    "event": "Overexertion in lifting or lowering"
+  },
+  {
+    "amount": "8,510",
+    "event": "Repetitive motion involving microtasks"
+  },
+  {
+    "amount": "3,090",
+    "event": "All other"
+  }
+]
